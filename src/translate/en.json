@@ -1,0 +1,33 @@
+{
+  "Ar": "Ar",
+  "En": "En",
+  "Arabic": "Arabic",
+  "English": "English",
+  "German": "German",
+  "Login": "Login",
+  "Welcome back, please login to your account.": "Welcome back, please login to your account.",
+  "Username": "Username",
+  "Password": "Password",
+  "Sign in": "Sign in",
+  "Point © 2022 | All Rights Reserved": "Point © 2022 | All Rights Reserved",
+  "unknown": "Unknown",
+  "super admin": "Super admin",
+  "Home": "Home",
+  "example": "Example",
+  "Log Out": "Log Out",
+  "Example": "Example",
+  "Add": "Add",
+  "edit": "Edit",
+  "ligth": "Light",
+  "dark": "Dark",
+  "reset": "Reset",
+  "submit": "Submit",
+  "errorPage": {
+    "networkError": "Network Error",
+    "checkAndModify": "Please check your network and refetch the page.",
+    "refetch": "Refetch Page",
+    "goToHome": "Go to Home"
+  }
+
+
+}

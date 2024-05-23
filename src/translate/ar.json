@@ -1,0 +1,40 @@
+{
+    "Ar": "عربي",
+    "En": "انكليزي",
+    "Arabic": "عربي",
+    "English": "إنجليزي",
+    "German" : "ألمانية",
+    "Login": "تسجيل الدخول",
+    "Welcome back, please login to your account.": "مرحبًا بك مرة أخرى ، يرجى تسجيل الدخول إلى حسابك.",
+    "Username": "اسم المستخدم",
+    "Password": "كلمة المرور",
+    "Sign in": "تسجيل الدخول",
+    "Point © 2022 | All Rights Reserved": "Point © 2022 |كل الحقوق محفوظة",
+    "unknown": "مجهول",
+    "super admin": "مشرف سوبر",
+    "admin": "مسؤل",
+    "Home": "الصفحة الرئيسية",
+    "example": "مثال",
+    "Log Out": "تسجيل خروج",
+    "Example": "مثال",
+    "Add": "اضافة",
+    "username": "اسم ",
+    "password": "كلمة المرور ",
+    "name": "اسم",
+    "email": "الحساب",
+    "cancel": "الغاء",
+    "edit": "تعديل",
+    "light": "وضع النهاري",
+    "dark": "وضع اليلي",
+  "reset": "إعادة تعيين",
+  "submit": "إرسال",
+  "errorPage": {
+    "networkError": "خطأ في الشبكة",
+    "checkAndModify": "يرجى التحقق من الشبكة الخاصة بك وإعادة تحميل الصفحة.",
+    "refetch": "إعادة تحميل الصفحة",
+    "goToHome": "الانتقال إلى الصفحة الرئيسية"
+  }
+
+
+
+}
